@@ -1,0 +1,52 @@
+/* syle.css */
+html,
+body{
+    margin: 0;
+    background-image: linear-gradient(to right, rgb(183, 208, 240), rgb(45, 65, 179));
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    flex-direction: column;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex > *{
+    font-size: 25px;
+}
+
+p{
+    text-align: left;
+    font-size: 22px;
+    margin: 0;
+}
+
+h1 {
+    color:rgb(218, 205, 205);
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    text-shadow: rgb(128, 121, 158) 1px 0 5px;
+    background-image: linear-gradient(to right, rgb(183, 208, 240), rgb(45, 65, 179));
+}
+
+img{ 
+    display: block;
+    border: 5px solid rgb(151, 50, 50); 
+}
+
+/* Self-Defined Classes */
+.pbackground{
+    text-align: center;
+    font-size: 22px;
+    width: 80%;
+    background-color: rgb(230, 199, 230);
+    margin: auto;
+}
+
+
+/* IDs */
+#pic{
+    margin: auto;
+    width: 80%;
+}
+
