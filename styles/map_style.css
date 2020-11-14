@@ -1,0 +1,69 @@
+/* Styles for the map */
+
+.container{
+    position: relative;
+    width: 100%;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.btn{
+    position: absolute;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    font-size: 14px;
+    color: rgb(240, 223, 223);
+    border: none;
+    cursor: pointer;
+    border-radius: 2px;
+}
+.select{
+    font-size: 14px;
+    background-color: #f9f9f9;
+    opacity: 0.65;
+}
+
+.btnCA{
+    left: 17.5%;
+    font-size: 16px;
+    background-color: rgb(112, 112, 231);
+    top: 54%;
+}
+.btnNY{
+    right: 16.5%;
+    top: 30%;
+}
+.btnAZ{
+    left: 28.5%;
+    top: 61.5%;
+}
+.btnNV{
+    left: 21%;
+    top: 42.5%;
+}
+.btnOR{
+    left: 16%;
+    top: 25%;
+}
+.btnUT{
+    left: 28.5%;
+    top: 43.5%;
+}
+.btnWA{
+    left: 16.25%;
+    top: 12.5%;
+}
+/* Other states' button positions below... */
+
+
+
+
+
+
+
+
