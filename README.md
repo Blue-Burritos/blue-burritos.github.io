@@ -1,2 +1,1 @@
-# blue-burritos.github.io
-GO TEAM
+Read it ~
